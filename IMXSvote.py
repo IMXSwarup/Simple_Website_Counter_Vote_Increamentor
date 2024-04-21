@@ -38,9 +38,9 @@ email_suffix_file = "email_suffix.txt"
 
 # Initial values 
 base_mobile = 8340159312
-base_ip = "152.58.190.49"
-base_name = "Swarup Saw"
-base_email = "bittu28swarup"
+base_ip = "15x.5x.19x.4x"
+base_name = "TestName"
+base_email = "xxx"
 
 # Number of iterations
 num_iterations = 10000
